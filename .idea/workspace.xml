@@ -4,13 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3975845-5e5b-432f-9648-92ec6641315b" name="Default Changelist" comment="" />
+    <list default="true" id="b3975845-5e5b-432f-9648-92ec6641315b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DashboardRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DashboardRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DashboardRunner/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/DashboardRunner/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/test_automation_interviewPrep.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/archive.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/archive.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/dashboard.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/dashboard.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/manageAccess.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/manageAccess.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/sundayReview.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/impls/DashboardImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/impls/DashboardImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/impls/LoginImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/impls/LoginImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/CommonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CommonPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/DashboardSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/DashboardSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/LoginSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/LoginSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/ManageAccessSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/steps/ManageAccessSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/CucumberLogUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/CucumberLogUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/LocalConfigUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/LocalConfigUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/MiscUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/MiscUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/WebdriverUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/WebdriverUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DashboardRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DashboardRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test_automation_interviewPrep.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ManageAccessRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ManageAccessRunner.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1p7KPi44Dotle8xERyUAoaCD8ZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +49,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DashboardRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_automation_interviewPrep" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DashboardRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DashboardRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -5,11 +5,12 @@ import io.cucumber.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         plugin = {"pretty" , "html:target/DashboardRunner",
-                "rerun:target/Rerun_Failed/DashboardRunner.txt"},
+                "rerun:target/Rerun_Failed/DashboardRunner.txt",
+        "json:target/cucumber.json"},
         features = "src/main/resources/features/manageAccess.feature",
         glue = {"steps"}
-        , stepNotifications = true
-       // tags="@regression"
+        , stepNotifications = true,
+       tags="@regression"
         //   tags="@regression and @shakeout"
 )
 
