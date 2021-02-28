@@ -9,9 +9,9 @@ import io.cucumber.junit.Cucumber;
         "json:target/cucumber.json"},
         features = "src/main/resources/features/manageAccess.feature",
         glue = {"steps"}
-        , stepNotifications = true,
-       tags="@regression"
-        //   tags="@regression and @shakeout"
+        , stepNotifications = true
+//       tags="@regression"
+//           tags="@regression and @shakeout"
 )
 
 
